@@ -7,7 +7,7 @@
   },
   "include": [
     "./**/*.ts"
-  ],
+, "src/card/Card.js"  ],
   "exclude": [
     "./**/*.stories.js",
     "./dist"
